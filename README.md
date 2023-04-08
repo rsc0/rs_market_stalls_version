@@ -1,0 +1,1 @@
+# rs_market_stalls_version
